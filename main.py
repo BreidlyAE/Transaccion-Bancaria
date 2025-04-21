@@ -1,9 +1,11 @@
+# Se importa el modulo csv
 import csv
 
 # Nombre del archivo CSV que se va a leer (data o transacciones)
-archivo = "data.csv"
+archivo = "transacciones.csv"
 
 # Inicializamos las variables
+balance = 0.0
 conteo_credito = 0
 conteo_debito = 0
 id_max = None
