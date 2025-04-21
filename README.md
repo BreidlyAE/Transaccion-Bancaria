@@ -31,6 +31,16 @@ El presente proyecto consiste en una aplicación de línea de comandos (CLI) que
    - 🧠 **Pylance** (intellisense y autocompletado avanzado)
    - 🌈 **Rainbow CSV** (sirve para tener una mejor visualizacion de archivos CSV)
 
-4. **Abre el proyecto en VS Code**:
-   ```bash
-   code nombre-de-la-carpeta (en este caso seria Transaccion Bancaria)
+4. **Abrir la carpeta donde se ubica proyecto desde VS Code**:
+   La carpeta contiene el codigo, ademas de 2 archivos con extension .csv para hacer pruebas
+   Al ya estar dentro de la carpeta, solo es necesario abrir la terminal que se direccionara directamente a la ruta donde se encuentra el proyecto
+   Un vez abierta la consola, escribir 'python main.py' para ejecutar el codigo y obtener en consola unos resultados semejantes a los siguientes:
+
+     ```
+   Reporte de Transacciones
+   ---------------------------------------------
+   Balance Final: 325.00
+   Transacción de Mayor Monto: ID 3 - 200.00
+   Conteo de Transacciones: Crédito: 3  Débito: 2
+   ```
+
