@@ -27,8 +27,8 @@ El presente proyecto consiste en una aplicación de línea de comandos (CLI) que
 
 3. **Abrir VS Code y añadir las siguientes extensiones para una programacion mas amena**:
    - 🐍 **Python** (de Microsoft)
-   - 🐞 **Python Debugger**
-   - 🧠 **Pylance** (intellisense y autocompletado avanzado)
+   - 🐍 **Python Debugger**
+   - 🐍 **Pylance** (intellisense y autocompletado avanzado)
    - 🌈 **Rainbow CSV** (sirve para tener una mejor visualizacion de archivos CSV)
 
 4. **Abrir la carpeta donde se ubica proyecto desde VS Code**:
